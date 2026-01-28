@@ -1,7 +1,9 @@
 using CategoryServices.Data;
+using CategoryServices.Model;
 using CategoryServices.Repo;
 using CategoryServices.Services;
 using Microsoft.EntityFrameworkCore;
+using Shared.Kafka;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +15,14 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 // Repository register
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+
+// Kafka Producer + MessageBus register
+builder.Services.AddKafkaProducer<int, Category>(config =>
+{
+    config.BootstrapServers = "localhost:9092"; // Kafka broker address
+    config.Topic = "category-events";           // Topic name
+});
+builder.Services.AddKafkaMessageBus();
 
 
 builder.Services.AddDbContext<CategoryDbContext>(options =>

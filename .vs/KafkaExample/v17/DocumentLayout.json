@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B30D004-96C7-40C1-8F1E-E6218F973B39}|Services\\CategoryServices\\CategoryServices.csproj|c:\\users\\limer\\onedrive\\desktop\\kafkaexample\\services\\categoryservices\\repo\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B30D004-96C7-40C1-8F1E-E6218F973B39}|Services\\CategoryServices\\CategoryServices.csproj|solutionrelative:services\\categoryservices\\repo\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102108E-C1F5-4744-A675-1492681DE2D6}|Shared.Kafka\\Shared.Kafka.csproj|c:\\users\\limer\\onedrive\\desktop\\kafkaexample\\shared.kafka\\kafkaconsumerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102108E-C1F5-4744-A675-1492681DE2D6}|Shared.Kafka\\Shared.Kafka.csproj|solutionrelative:shared.kafka\\kafkaconsumerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102108E-C1F5-4744-A675-1492681DE2D6}|Shared.Kafka\\Shared.Kafka.csproj|c:\\users\\limer\\onedrive\\desktop\\kafkaexample\\shared.kafka\\kafkamessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102108E-C1F5-4744-A675-1492681DE2D6}|Shared.Kafka\\Shared.Kafka.csproj|solutionrelative:shared.kafka\\kafkamessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9812CA6-D058-4E9A-832B-DCA07FD23B37}|ProductServices\\ProductServices.csproj|c:\\users\\limer\\onedrive\\desktop\\kafkaexample\\productservices\\repo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9812CA6-D058-4E9A-832B-DCA07FD23B37}|ProductServices\\ProductServices.csproj|solutionrelative:productservices\\repo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B30D004-96C7-40C1-8F1E-E6218F973B39}|Services\\CategoryServices\\CategoryServices.csproj|c:\\users\\limer\\onedrive\\desktop\\kafkaexample\\services\\categoryservices\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B30D004-96C7-40C1-8F1E-E6218F973B39}|Services\\CategoryServices\\CategoryServices.csproj|solutionrelative:services\\categoryservices\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102108E-C1F5-4744-A675-1492681DE2D6}|Shared.Kafka\\Shared.Kafka.csproj|c:\\users\\limer\\onedrive\\desktop\\kafkaexample\\shared.kafka\\kafkadeserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102108E-C1F5-4744-A675-1492681DE2D6}|Shared.Kafka\\Shared.Kafka.csproj|solutionrelative:shared.kafka\\kafkadeserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102108E-C1F5-4744-A675-1492681DE2D6}|Shared.Kafka\\Shared.Kafka.csproj|c:\\users\\limer\\onedrive\\desktop\\kafkaexample\\shared.kafka\\kafkaproducerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102108E-C1F5-4744-A675-1492681DE2D6}|Shared.Kafka\\Shared.Kafka.csproj|solutionrelative:shared.kafka\\kafkaproducerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102108E-C1F5-4744-A675-1492681DE2D6}|Shared.Kafka\\Shared.Kafka.csproj|c:\\users\\limer\\onedrive\\desktop\\kafkaexample\\shared.kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102108E-C1F5-4744-A675-1492681DE2D6}|Shared.Kafka\\Shared.Kafka.csproj|solutionrelative:shared.kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\ProductServices\\Repo\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductServices\\Repo\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\ProductServices\\Repo\\ProductRepository.cs",
+              "RelativeToolTip": "ProductServices\\Repo\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:59:16.464Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KafkaMessageBus.cs",
+              "DocumentMoniker": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\Shared.Kafka\\KafkaMessageBus.cs",
+              "RelativeDocumentMoniker": "Shared.Kafka\\KafkaMessageBus.cs",
+              "ToolTip": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\Shared.Kafka\\KafkaMessageBus.cs",
+              "RelativeToolTip": "Shared.Kafka\\KafkaMessageBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:56:33.262Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\Shared.Kafka\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "Shared.Kafka\\KafkaProducer.cs",
+              "ToolTip": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\Shared.Kafka\\KafkaProducer.cs",
+              "RelativeToolTip": "Shared.Kafka\\KafkaProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:58:32.462Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KafkaProducerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\Shared.Kafka\\KafkaProducerConfig.cs",
+              "RelativeDocumentMoniker": "Shared.Kafka\\KafkaProducerConfig.cs",
+              "ToolTip": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\Shared.Kafka\\KafkaProducerConfig.cs",
+              "RelativeToolTip": "Shared.Kafka\\KafkaProducerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:02:16.622Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaConsumerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\Shared.Kafka\\KafkaConsumerConfig.cs",
+              "RelativeDocumentMoniker": "Shared.Kafka\\KafkaConsumerConfig.cs",
+              "ToolTip": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\Shared.Kafka\\KafkaConsumerConfig.cs",
+              "RelativeToolTip": "Shared.Kafka\\KafkaConsumerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:04:08.101Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\Services\\CategoryServices\\Repo\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryServices\\Repo\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\Services\\CategoryServices\\Repo\\CategoryRepository.cs",
+              "RelativeToolTip": "Services\\CategoryServices\\Repo\\CategoryRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:42:16.869Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\Services\\CategoryServices\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryServices\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\Services\\CategoryServices\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Services\\CategoryServices\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:43:26.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KafkaDeserializer.cs",
+              "DocumentMoniker": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\Shared.Kafka\\KafkaDeserializer.cs",
+              "RelativeDocumentMoniker": "Shared.Kafka\\KafkaDeserializer.cs",
+              "ToolTip": "C:\\Users\\limer\\OneDrive\\Desktop\\KafkaExample\\Shared.Kafka\\KafkaDeserializer.cs",
+              "RelativeToolTip": "Shared.Kafka\\KafkaDeserializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:37:51.119Z"
             }
           ]
         }

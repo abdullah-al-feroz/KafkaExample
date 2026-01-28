@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CategoryServices", "Service
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductServices", "ProductServices\ProductServices.csproj", "{D9812CA6-D058-4E9A-832B-DCA07FD23B37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.Kafka", "Shared.Kafka\Shared.Kafka.csproj", "{B102108E-C1F5-4744-A675-1492681DE2D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D9812CA6-D058-4E9A-832B-DCA07FD23B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9812CA6-D058-4E9A-832B-DCA07FD23B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9812CA6-D058-4E9A-832B-DCA07FD23B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B102108E-C1F5-4744-A675-1492681DE2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B102108E-C1F5-4744-A675-1492681DE2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B102108E-C1F5-4744-A675-1492681DE2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B102108E-C1F5-4744-A675-1492681DE2D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

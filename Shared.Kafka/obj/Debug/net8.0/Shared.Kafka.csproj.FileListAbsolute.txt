@@ -1,0 +1,13 @@
+C:\Users\limer\OneDrive\Desktop\KafkaExample\Shared.Kafka\bin\Debug\net8.0\Shared.Kafka.deps.json
+C:\Users\limer\OneDrive\Desktop\KafkaExample\Shared.Kafka\bin\Debug\net8.0\Shared.Kafka.dll
+C:\Users\limer\OneDrive\Desktop\KafkaExample\Shared.Kafka\bin\Debug\net8.0\Shared.Kafka.pdb
+C:\Users\limer\OneDrive\Desktop\KafkaExample\Shared.Kafka\obj\Debug\net8.0\Shared.Kafka.csproj.AssemblyReference.cache
+C:\Users\limer\OneDrive\Desktop\KafkaExample\Shared.Kafka\obj\Debug\net8.0\Shared.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limer\OneDrive\Desktop\KafkaExample\Shared.Kafka\obj\Debug\net8.0\Shared.Kafka.AssemblyInfoInputs.cache
+C:\Users\limer\OneDrive\Desktop\KafkaExample\Shared.Kafka\obj\Debug\net8.0\Shared.Kafka.AssemblyInfo.cs
+C:\Users\limer\OneDrive\Desktop\KafkaExample\Shared.Kafka\obj\Debug\net8.0\Shared.Kafka.csproj.CoreCompileInputs.cache
+C:\Users\limer\OneDrive\Desktop\KafkaExample\Shared.Kafka\obj\Debug\net8.0\Shared.Kafka.sourcelink.json
+C:\Users\limer\OneDrive\Desktop\KafkaExample\Shared.Kafka\obj\Debug\net8.0\Shared.Kafka.dll
+C:\Users\limer\OneDrive\Desktop\KafkaExample\Shared.Kafka\obj\Debug\net8.0\refint\Shared.Kafka.dll
+C:\Users\limer\OneDrive\Desktop\KafkaExample\Shared.Kafka\obj\Debug\net8.0\Shared.Kafka.pdb
+C:\Users\limer\OneDrive\Desktop\KafkaExample\Shared.Kafka\obj\Debug\net8.0\ref\Shared.Kafka.dll
